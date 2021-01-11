@@ -1,4 +1,4 @@
-## Programming Competency Statement
+# Programming Competency Statement
 ### **Language : Python**
 
 **Level of Proficiency:**
