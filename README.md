@@ -48,7 +48,7 @@
 
 **Description:**
 
-* Familiar with JQuery, Lodash, Moment Libraries toimplement advanced features on web
+* Familiar with JQuery, Lodash, Moment Libraries to implement advanced features on web
 pages
 * With ability to create an AJAX API Server for Front-End
 * Developed a server side of Check-in/Check-out system for managing students attendance
